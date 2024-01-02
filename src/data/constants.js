@@ -12,7 +12,7 @@ export const Bio = {
       "https://drive.google.com/file/d/",
     linkedin: "https://www.linkedin.com/in/stevan-pinto-2b4565221/",
     twitter: "https://twitter.com/stevan_pinto_/",
-    insta: "https://www.instagram.com/rishav_chanda/",
+    insta: "https://www.instagram.com/stevan_pinto__/",
     facebook: "https://www.facebook.com/stevan_pinto__/",
   };
   
@@ -196,7 +196,7 @@ export const Bio = {
       school: "Srinivas Institute of Technology , Pandeshwar , Manglore",
       date: "Oct 2022 - Sep 2024",
       grade: "8.71 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming.",
+      desc: "I am currently pursuing a masters degree in Srinivas Institute of Technology.",
       degree: "Master of Computer Application",
     },
     {
@@ -228,8 +228,8 @@ export const Bio = {
       description:
         "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-      tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+        "https://firebasestorage.googleapis.com/v0/b/ecom-images.appspot.com/o/spmart_homepage.png?alt=media&token=f4dc89ab-0cff-4e4a-9158-221528060cc4",
+      tags: ["PHP", "JavaScript", "CSS", "SCSS"],
       category: "web app",
       github: "https://github.com/stevan-Pinto/",
       webapp: "https://ecom_spmart.netlify.app/",
