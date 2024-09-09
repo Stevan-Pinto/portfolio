@@ -245,7 +245,36 @@ export const Bio = {
         }, 
       ], */
     },
+    
 
+    {
+      id: 1,
+      title: "SKILL-SYNC",
+      date: "DEC - 2023",
+      description:
+        "Developed an LMS website with Typescript, Next.js, Node.js, Express, including user authentication, course enrollment, and progress tracking.Implemented Redis cache integration to enhance data retrieval and application performance in a high-traffic environment.Utilized Cloudinary for image storage of products and user profile pictures.Implemented instant notification systems using Socket.io for real-time communication and updates..",
+      image:
+        "https://res.cloudinary.com/dan0iboqp/image/upload/v1717252480/skill-sync_ln7iik.png",
+      tags: ["NEXT.js", "JavaScript", "TYPESCRIPT", "TailwindCSS","NODEJS","Mongodb"],
+      category: "web app",
+      github: "https://github.com/stevan-Pinto/",
+      webapp: "https://skill-sync-elms-sp.vercel.app/",
+      /*
+      member: [
+        {
+          name: "Stevan-Pinto",
+          img: "https://avatars.githubusercontent.com/u/",
+          linkedin: "https://www.linkedin.com/in/",
+          github: "https://github.com/stevan-Pinto/",
+        },
+        {
+          name: "Stevan",
+          img: "https://avatars.githubusercontent.com/u/",
+          linkedin: "https://www.linkedin.com/in/",
+          github: "https://github.com/stevan-Pinto",
+        }, 
+      ], */
+    },
    
     {
       id: 8,
